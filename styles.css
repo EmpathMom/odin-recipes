@@ -18,3 +18,17 @@ h1,h2,h3,.section{
     justify-content: center;
     align-items: center;
 }
+.btn{
+    font-size: 20px;
+    width: 120px;
+    height:30px;
+    display: block;
+    text-decoration: none;
+    color:black;
+    background-color: rgb(98, 146, 27);
+    border: black 1px solid;
+    border-radius: 5px;
+    text-align: center;
+    padding: top 8px;
+
+}
